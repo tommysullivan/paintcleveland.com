@@ -1,0 +1,44 @@
+/* CSS Document */
+body { margin: 0px; color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 13px; }
+
+a:link
+{
+	font-weight: bold;
+}
+
+.darkTextDarkBG a:link
+{
+	color: #000000;
+	text-decoration: none;
+}
+.darkTextDarkBG a:visited
+{
+	color: #000000;
+	text-decoration: none;	
+}
+.darkTextDarkBG a:hover
+{
+	color:#CCCCCC;
+	text-decoration: underline;
+}
+.darkTextLightBG a:link
+{
+	color: #2D6086;
+	text-decoration: none;
+}
+.darkTextLightBG a:visited
+{
+	color: #2D6086;
+	text-decoration: none;	
+}
+.darkTextLightBG a:hover
+{
+	color:#1F3750;
+	text-decoration: underline;
+}
+
+.pageTitle
+{
+	font-size: 18px;
+	font-weight: bold;
+}
