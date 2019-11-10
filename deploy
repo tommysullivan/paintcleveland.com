@@ -23,6 +23,7 @@ pcHeroku() { local args="$@"
 
 herokuPush() {
     pcHeroku login
+    heroku stack:set cedar-14 -a paintcleveland-com
     addHerokuRemote
     git push heroku master 
 }
