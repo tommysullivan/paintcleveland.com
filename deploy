@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+
+installHerokuCli() {
+    curl https://cli-assets.heroku.com/install.sh | sh
+}
+
+herokuRemoteExists() {
+    git remote -v | grep "heroku"
+}
+
+addHerokuRemote() {
+    if ! herokuRemoteExists; then
+        pcHeroku git:remote -a paintcleveland-com
+    fi
+}
+
+pcHeroku() { local args="$@"
+    if commandDoesNotExist heroku; then
+        installHerokuCli
+    fi
+    heroku "$@"
+}
+
+herokuPush() {
+    pcHeroku login
+    addHerokuRemote
+    git push heroku master 
+}
+
+deploy() {
+    herokuPush
+}
+
+commandDoesNotExist() { local possibleCommand=$1
+    ! commandExists "${possibleCommand}"
+}
+
+commandExists() { local possibleCommand=$1
+    [ -x "$(command -v ${possibleCommand})" ]
+}
+
+deploy
