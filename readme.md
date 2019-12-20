@@ -50,15 +50,15 @@ credentials to log in. Only the latest local master will be deployed.
 
 ### Site Details
 
-1) Home Page Hero Image should display kitchen-related work (currently displays interior/exterior painting)
+1) ~~Home Page Hero Image should display kitchen-related work (currently displays interior/exterior painting)~~
 
-2) Move "Remodeling" link in nav bar to be second-from-Home
+2) ~~Move "Remodeling" link in nav bar to be second-from-Home~~
 
 3) Consolidate "Power Washing" and "Decks + Fencing" into single page
 
-4) Clarify that the "Contact Us Today for an Estimate" button is actually a button
-  * Rollover highlight
-  * Trim wordy button text
+4) ~~Clarify that the "Contact Us Today for an Estimate" button is actually a button~~
+  * ~~Rollover highlight~~
+  * ~~Trim wordy button text~~
   
 5) Quick Information/Contact request form on "Contact" page that emails Mike directly
   
