@@ -32,6 +32,21 @@ credentials to log in. Only the latest local master will be deployed.
     * Website
     * Google My Business
     * Log Ins (GMB, Google Analytics, GitHub, etc...)
+    
+5) Clear up all Misplaced References to Mike's Business
+  * [This Result](https://clustrmaps.com/a/1d1e5k/) is the top result when searching Mike's exact business name
+  * [This Result](https://goo.gl/maps/ZFi3sBwwW3B6F59j8) appears when searching for "remodeling 44124"
+    
+#### BEFORE MOVING ON - DOMAIN NAME, EMAIL ADDRESS, and LOGO must be updated
+    
+    
+### Printed Material 
+
+1) Existing materials should all be updated to reflect new EMAIL, BUSINESS NAME, and DOMAIN
+  * Business Cards
+  * Invoices
+  * Yard Signs
+
 
 ### Site Details
 
@@ -46,6 +61,7 @@ credentials to log in. Only the latest local master will be deployed.
   * Trim wordy button text
   
 5) Quick Information/Contact request form on "Contact" page that emails Mike directly
+  
   
 ### Increase Social Media Presence
 
@@ -62,18 +78,24 @@ credentials to log in. Only the latest local master will be deployed.
 3) Yelp
   * [sign up](https://biz.yelp.com/signup) (with new domain as login) 
     
+    
 ## Increase Online Visibility
 
 ### Get Reviews on [Google](https://tinyurl.com/vyv57cv)
 
-1) Reach Out to Exisiting, previously satisfied customers
+1) Determine proper incentives for:
+  * Posting a review online (x%)
+  * Referring a new customer (y% > x)
+  * Contracting Mike as a referred new customer (z% < y && z% > x)
+
+2) Reach Out to Exisiting, previously satisfied customers
   * Offer incentives if needed
   * Follow up with best prospects after initial solicitation (maximum of 2 additional times)
   * Ideally in person or by phone
   
-2) Start routine of soliciting new customers for reviews after job is complete and customer is satisfied
+3) Start routine of soliciting new customers for reviews after job is complete and customer is satisfied
 
-3) Get and Provide physical reminders to review/refer
+4) Get and Provide physical reminders to review/refer
   * double-sided business cards with review/referral information and incentives
   * Custom invoices
     * Logo, contact info, web/social media info
@@ -89,12 +111,10 @@ credentials to log in. Only the latest local master will be deployed.
 4) Bigger buttons
 5) One column-per-row view
 
+
 ### SWOT Analysis of Potential Page Redesign
 
 1) Current Design looks and feels outdated
-
 2) Current Dreamweaver template harder to modify
-
 3) Mobile-first approach
-
 4) Easier to integrate advanced features
